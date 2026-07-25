@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0268-missing-number) |
+| [3536-maximum-product-of-two-digits](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/3536-maximum-product-of-two-digits) |
 ## Counting
 |  |
 | ------- |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1486-xor-operation-in-an-array](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/1486-xor-operation-in-an-array) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3536-maximum-product-of-two-digits](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/3536-maximum-product-of-two-digits) |
 ## Binary Search
 |  |
 | ------- |
