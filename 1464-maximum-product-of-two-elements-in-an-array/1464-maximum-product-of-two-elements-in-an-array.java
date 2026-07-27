@@ -1,18 +1,23 @@
 class Solution {
     public int maxProduct(int[] nums) {
-        
-        PriorityQueue<Integer> pq =new PriorityQueue<>((a,b)->b-a);
 
-        for(int i=0; i<nums.length; i++){
-            pq.add(nums[i]);
+        int largest = nums[0];
+        int secondLargest =Integer.MIN_VALUE;
+
+        for (int i = 1; i <nums.length; i++) {
+            if (largest < nums[i]) {
+                secondLargest = largest;
+                largest = nums[i];
+
+            } else if (nums[i] <= largest && nums[i] > secondLargest) {
+                secondLargest = nums[i];
+            }
         }
 
-        int max1 =pq.poll()-1;
-        int max2 =pq.poll()-1;
+        int max1 = largest - 1;
+        int max2 = secondLargest - 1;
 
-        return max1*max2;
-
-        
+        return max1 * max2;
 
     }
 }
