@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Matrix
 |  |
 | ------- |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0200-number-of-islands) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0785-is-graph-bipartite](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0797-all-paths-from-source-to-target) |
 | [0841-keys-and-rooms](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0841-keys-and-rooms) |
 ## Breadth-First Search
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0200-number-of-islands) |
 | [0785-is-graph-bipartite](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0797-all-paths-from-source-to-target) |
 | [0841-keys-and-rooms](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0841-keys-and-rooms) |
 ## Union-Find
@@ -116,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0797-all-paths-from-source-to-target) |
 | [0841-keys-and-rooms](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0841-keys-and-rooms) |
 | [0997-find-the-town-judge](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0997-find-the-town-judge) |
@@ -146,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0023-merge-k-sorted-lists) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Merge Sort
 |  |
@@ -160,4 +165,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Shortest Path
+|  |
+| ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0787-cheapest-flights-within-k-stops) |
 <!---LeetCode Topics End-->
