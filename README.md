@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0169-majority-element](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0169-majority-element) |
+| [0200-number-of-islands](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0200-number-of-islands) |
 | [0268-missing-number](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0268-missing-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0628-maximum-product-of-three-numbers) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0054-spiral-matrix) |
+| [0200-number-of-islands](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0200-number-of-islands) |
 ## Simulation
 |  |
 | ------- |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0200-number-of-islands) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0785-is-graph-bipartite](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0797-all-paths-from-source-to-target) |
@@ -100,12 +103,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0200-number-of-islands) |
 | [0785-is-graph-bipartite](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0797-all-paths-from-source-to-target) |
 | [0841-keys-and-rooms](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0841-keys-and-rooms) |
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0200-number-of-islands) |
 | [0785-is-graph-bipartite](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0785-is-graph-bipartite) |
 ## Graph Theory
 |  |
