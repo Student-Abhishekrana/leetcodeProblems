@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0268-missing-number) |
 | [0486-predict-the-winner](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0628-maximum-product-of-three-numbers) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0389-find-the-difference) |
 | [1486-xor-operation-in-an-array](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/1486-xor-operation-in-an-array) |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0021-merge-two-sorted-lists) |
+| [0231-power-of-two](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0231-power-of-two) |
 | [0486-predict-the-winner](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0486-predict-the-winner) |
 ## Doubly-Linked List
 |  |
