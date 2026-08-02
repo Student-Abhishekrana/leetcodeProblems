@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0268-missing-number) |
+| [0326-power-of-three](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0326-power-of-three) |
 | [0486-predict-the-winner](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0877-stone-game) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0021-merge-two-sorted-lists) |
 | [0231-power-of-two](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0326-power-of-three) |
 | [0486-predict-the-winner](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0486-predict-the-winner) |
 ## Doubly-Linked List
 |  |
