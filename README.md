@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0486-predict-the-winner) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0628-maximum-product-of-three-numbers) |
+| [0645-set-mismatch](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0645-set-mismatch) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0877-stone-game](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0877-stone-game) |
 | [0997-find-the-town-judge](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0997-find-the-town-judge) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0389-find-the-difference) |
+| [0645-set-mismatch](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0645-set-mismatch) |
 | [0997-find-the-town-judge](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0997-find-the-town-judge) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -47,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0389-find-the-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0628-maximum-product-of-three-numbers) |
+| [0645-set-mismatch](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0645-set-mismatch) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -89,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0389-find-the-difference) |
+| [0645-set-mismatch](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0645-set-mismatch) |
 | [1486-xor-operation-in-an-array](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/1486-xor-operation-in-an-array) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/3514-number-of-unique-xor-triplets-ii) |
