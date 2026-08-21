@@ -1,0 +1,29 @@
+class Solution {
+    public boolean canPartition(int[] nums) {
+        if (nums.length <= 0) {
+            return false;
+        }
+        int totalSum = 0;
+        for (int num : nums) {
+            totalSum += num;
+        }
+        if (totalSum % 2 == 1) {
+            return false;
+        }
+        int target =totalSum/2;
+
+        boolean[] dp =new boolean[target+1];
+        dp[0] =true;
+
+        for(int num :nums){
+            for(int curr =target; curr >=num; curr--){
+                dp[curr] =dp[curr] || dp[curr-num];
+            }
+
+        } 
+        return dp[target];
+
+
+    
+    }
+}
