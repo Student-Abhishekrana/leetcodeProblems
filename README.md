@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0200-number-of-islands) |
 | [0268-missing-number](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0268-missing-number) |
+| [0300-longest-increasing-subsequence](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0300-longest-increasing-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0416-partition-equal-subset-sum) |
 | [0463-island-perimeter](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0463-island-perimeter) |
 | [0486-predict-the-winner](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0486-predict-the-winner) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0268-missing-number](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0268-missing-number) |
+| [0300-longest-increasing-subsequence](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0300-longest-increasing-subsequence) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Bit Manipulation
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0044-wildcard-matching) |
 | [0070-climbing-stairs](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0300-longest-increasing-subsequence](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0300-longest-increasing-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0416-partition-equal-subset-sum) |
 | [0486-predict-the-winner](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0486-predict-the-winner) |
 | [0583-delete-operation-for-two-strings](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0583-delete-operation-for-two-strings) |
@@ -321,4 +324,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0583-delete-operation-for-two-strings](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0583-delete-operation-for-two-strings) |
 | [1035-uncrossed-lines](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/1035-uncrossed-lines) |
 | [1143-longest-common-subsequence](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/1143-longest-common-subsequence) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
