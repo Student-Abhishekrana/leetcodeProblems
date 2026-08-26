@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0044-wildcard-matching](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0044-wildcard-matching) |
 | [0070-climbing-stairs](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0072-edit-distance) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0300-longest-increasing-subsequence](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0300-longest-increasing-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0416-partition-equal-subset-sum) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0044-wildcard-matching) |
+| [0072-edit-distance](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0072-edit-distance) |
 | [0127-word-ladder](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0127-word-ladder) |
 | [0389-find-the-difference](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0389-find-the-difference) |
 | [0583-delete-operation-for-two-strings](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0583-delete-operation-for-two-strings) |
