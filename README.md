@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1035-uncrossed-lines](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/1035-uncrossed-lines) |
 | [1406-stone-game-iii](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/2428-maximum-sum-of-an-hourglass) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0044-wildcard-matching) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Game Theory
