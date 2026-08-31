@@ -208,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0023-merge-k-sorted-lists) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Recursion
 |  |
 | ------- |
