@@ -10,37 +10,44 @@
  */
 class Solution {
     public int[] nodesBetweenCriticalPoints(ListNode head) {
+        if(head==null || head.next==null || head.next.next==null){
+            return new int[]{-1,-1};
+        }
         ListNode prev = head;
         ListNode curr = head.next;
 
-        int currIndex = 1;
+        int index = 2;
+        int firstCritical =-1;
+        int lastCritical =-1;
+        int minDist =Integer.MAX_VALUE;
 
-        ArrayList<Integer> al = new ArrayList<>();
 
         while (curr != null && curr.next != null) {
-            if (curr.val > prev.val && curr.val > curr.next.val) {
-                al.add(currIndex);
+            if ((curr.val > prev.val && curr.val > curr.next.val)|| (curr.val < prev.val && curr.val < curr.next.val) )
+            {
+                if(firstCritical ==-1){
+                    firstCritical =index;
+                }else{
+                    minDist =Math.min(minDist,index-lastCritical);
+                }
+                lastCritical =index;
+
             }
-            if (curr.val < prev.val && curr.val < curr.next.val) {
-                al.add(currIndex);
-            }
+               
             prev = prev.next;
             curr = curr.next;
-            currIndex++;
+            index++;
         }
 
-        int[] ans = new int[] { -1, -1 };
-        if (al.size() >= 2) {
-            int minDist = Integer.MAX_VALUE;
+        int[] ans =new int[2];
+        ans[0] =minDist;
+        ans[1] =lastCritical-firstCritical;
 
-            for (int i = 1; i < al.size(); i++) {
-                minDist =Math.min(minDist,al.get(i)-al.get(i-1));
-
-            }
-            int maxDist = al.get(al.size()-1)-al.get(0);
-            ans[0] =minDist;
-            ans[1] =maxDist;
+        if(firstCritical==-1 || firstCritical==lastCritical){
+            return new int[]{-1,-1};
         }
+       
+         
         return ans;
     }
 }
