@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0054-spiral-matrix](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0054-spiral-matrix) |
 | [0088-merge-sorted-array](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0088-merge-sorted-array) |
+| [0118-pascals-triangle](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0072-edit-distance) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0096-unique-binary-search-trees) |
+| [0118-pascals-triangle](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0300-longest-increasing-subsequence](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0300-longest-increasing-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0416-partition-equal-subset-sum) |
