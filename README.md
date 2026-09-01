@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0877-stone-game) |
 | [0997-find-the-town-judge](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0997-find-the-town-judge) |
 | [1035-uncrossed-lines](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/1035-uncrossed-lines) |
+| [1046-last-stone-weight](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/1046-last-stone-weight) |
 | [1406-stone-game-iii](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0023-merge-k-sorted-lists) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1046-last-stone-weight](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/1046-last-stone-weight) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Merge Sort
 |  |
