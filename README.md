@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2104-sum-of-subarray-ranges](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/2104-sum-of-subarray-ranges) |
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/2428-maximum-sum-of-an-hourglass) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -370,4 +371,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0234-palindrome-linked-list) |
+| [2104-sum-of-subarray-ranges](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/2104-sum-of-subarray-ranges) |
+## Monotonic Stack
+|  |
+| ------- |
+| [2104-sum-of-subarray-ranges](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/2104-sum-of-subarray-ranges) |
 <!---LeetCode Topics End-->
