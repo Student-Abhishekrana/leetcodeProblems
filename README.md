@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0997-find-the-town-judge](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0997-find-the-town-judge) |
 | [1035-uncrossed-lines](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/1035-uncrossed-lines) |
 | [1046-last-stone-weight](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/1046-last-stone-weight) |
+| [1094-car-pooling](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/1094-car-pooling) |
 | [1406-stone-game-iii](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0389-find-the-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0645-set-mismatch) |
+| [1094-car-pooling](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/1094-car-pooling) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0054-spiral-matrix) |
+| [1094-car-pooling](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/1094-car-pooling) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -246,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0023-merge-k-sorted-lists) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1046-last-stone-weight](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/1046-last-stone-weight) |
+| [1094-car-pooling](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/1094-car-pooling) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Merge Sort
 |  |
@@ -329,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1094-car-pooling](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/1094-car-pooling) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/2428-maximum-sum-of-an-hourglass) |
 ## Memoization
 |  |
