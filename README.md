@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0645-set-mismatch) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0997-find-the-town-judge](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0997-find-the-town-judge) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0797-all-paths-from-source-to-target) |
 | [0841-keys-and-rooms](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0841-keys-and-rooms) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1462-course-schedule-iv](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/1462-course-schedule-iv) |
 | [3310-remove-methods-from-project](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0797-all-paths-from-source-to-target) |
 | [0841-keys-and-rooms](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0841-keys-and-rooms) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1462-course-schedule-iv](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/1462-course-schedule-iv) |
 | [3310-remove-methods-from-project](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/3310-remove-methods-from-project) |
 ## Union-Find
@@ -376,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0096-unique-binary-search-trees) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -386,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0096-unique-binary-search-trees) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 ## Stack
 |  |
 | ------- |
