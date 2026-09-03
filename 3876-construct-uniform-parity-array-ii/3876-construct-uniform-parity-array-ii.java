@@ -1,25 +1,21 @@
 class Solution {
     public boolean uniformArray(int[] nums1) {
-        int n =nums1.length;
-        Arrays.sort(nums1);
-        int oe =0;
-        if(nums1[0] % 2==0){
-            oe =0;
-        }else{
-            oe =1;
+      int min =Integer.MAX_VALUE;
+        for (int num : nums1) {
+           min =Math.min(min,num);
         }
-        int prev =nums1[0];
 
-        for(int i=1; i<n; i++){
-            if(nums1[i]%2 == oe){
-                prev =nums1[i];
-            }
-            if(nums1[i]%2 != oe){
-                prev =nums1[i]-prev;
-            }
-            if((prev % 2) != oe){
-                return false;
-            }
+        //if min number is odd . then its possible to convert all number into odd
+        if(min %2 !=0){
+            return true;
+        }else{
+            //if min number is even , then its impossible to convert all number into even
+
+            for(int num :nums1){
+                if(num% 2 != 0){
+                    return false;
+                }
+            } 
         }
         return true;
 
