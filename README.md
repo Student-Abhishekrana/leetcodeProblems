@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0416-partition-equal-subset-sum) |
 | [0463-island-perimeter](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0463-island-perimeter) |
 | [0486-predict-the-winner](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0486-predict-the-winner) |
+| [0494-target-sum](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0494-target-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0645-set-mismatch) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0300-longest-increasing-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0416-partition-equal-subset-sum) |
 | [0486-predict-the-winner](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0486-predict-the-winner) |
+| [0494-target-sum](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0494-target-sum) |
 | [0583-delete-operation-for-two-strings](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0583-delete-operation-for-two-strings) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0877-stone-game](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0877-stone-game) |
@@ -264,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0095-unique-binary-search-trees-ii) |
+| [0494-target-sum](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0494-target-sum) |
 | [0797-all-paths-from-source-to-target](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0797-all-paths-from-source-to-target) |
 ## Heap (Priority Queue)
 |  |
@@ -371,10 +374,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0494-target-sum) |
 ## 0-1 Knapsack
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0494-target-sum) |
 ## Longest Common Subsequence
 |  |
 | ------- |
