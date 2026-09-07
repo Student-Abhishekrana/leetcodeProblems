@@ -5,17 +5,29 @@ class Solution {
 
 
     public int findTargetSumWays(int[] nums, int target) {
-    return helper(nums,target,0,0);    
-    }
-    private int helper(int nums[], int target, int index, int sum){
-        if(index >= nums.length){
-            return sum==target ? 1:0;
-        }
+            int sum =0;
+            for(int num :nums){
+                sum +=num;
+            }
 
-        //addition
-        int add =helper(nums,target,index+1, sum+nums[index]);
-        int subs =helper(nums,target,index+1,sum-nums[index]);
-        return add+subs;
-    }
+            if(Math.abs(target)>sum || (sum+target)%2==1){
+                return 0;
+            }
+
+            int subsetSum =(target+sum)/2;
+
+            int dp[] =new int[subsetSum+1];
+            dp[0]=1;
+
+            for(int num :nums){
+                for(int i=subsetSum; i>=num; i--){
+                    dp[i] +=dp[i-num];
+                }
+            }
+            return dp[subsetSum];
+
+
+    
+      }
 
 }
