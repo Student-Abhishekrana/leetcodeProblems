@@ -1,28 +1,23 @@
 class Solution {
-    int [][]dp;
-    int []cuts;
     public int minCost(int n, int[] cuts) {
         Arrays.sort(cuts);
-        dp=new int[cuts.length][cuts.length];
-        this.cuts =cuts;
+       int m =cuts.length;
+       int[][] dp =new int[m][m];
 
-        return cost(0,cuts.length-1,0,n);
-    }
-    private int cost(int i, int j, int start, int end){
-        if(i>j){
-            return 0;//there won't be any cuts
+       for(int i=m-1; i>=0; i--){
+        for(int j=i; j<m; j++){
+            int min_cost =Integer.MAX_VALUE;
+            int start =(i==0)?0:cuts[i-1];
+            int end =(j==m-1)?n:cuts[j+1];
+            for(int k=i; k<=j; k++){
+                int fs =(i<k)?dp[i][k-1]:0;
+                int ss =(j>k)?dp[k+1][j]:0;
+                int self =end-start;
+                min_cost=Math.min(min_cost,self+fs+ss);
+            }
+            dp[i][j] =min_cost;
         }
-
-        if(dp[i][j]!=0){
-            return dp[i][j]; //cost has already computed;
-        }
-        int min_cost=Integer.MAX_VALUE;
-        for(int k=i; k<=j; k++){
-            int fs =cost(i,k-1,start,cuts[k]);
-            int ss =cost(k+1,j,cuts[k],end);
-            int self =end-start;
-            min_cost =Math.min(min_cost,fs+ss+self);
-        }
-        return dp[i][j] =min_cost;
+       } 
+       return dp[0][m-1];
     }
 }
