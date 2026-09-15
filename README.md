@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0645-set-mismatch) |
 | [0658-find-k-closest-elements](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0658-find-k-closest-elements) |
+| [0682-baseball-game](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0682-baseball-game) |
 | [0695-max-area-of-island](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0733-flood-fill) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0054-spiral-matrix) |
+| [0682-baseball-game](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0682-baseball-game) |
 | [1094-car-pooling](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/1094-car-pooling) |
 ## Depth-First Search
 |  |
@@ -427,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0234-palindrome-linked-list) |
+| [0682-baseball-game](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0682-baseball-game) |
 | [2104-sum-of-subarray-ranges](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/2104-sum-of-subarray-ranges) |
 ## Monotonic Stack
 |  |
