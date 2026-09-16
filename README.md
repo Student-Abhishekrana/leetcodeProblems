@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0494-target-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0540-single-element-in-a-sorted-array) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0645-set-mismatch) |
 | [0658-find-k-closest-elements](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0658-find-k-closest-elements) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0389-find-the-difference) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0645-set-mismatch](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0645-set-mismatch) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0997-find-the-town-judge](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0997-find-the-town-judge) |
@@ -310,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0389-find-the-difference) |
 | [0541-reverse-string-ii](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0541-reverse-string-ii) |
 | [0583-delete-operation-for-two-strings](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0583-delete-operation-for-two-strings) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0709-to-lower-case](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0709-to-lower-case) |
 | [0821-shortest-distance-to-a-character](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0821-shortest-distance-to-a-character) |
 | [1143-longest-common-subsequence](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/1143-longest-common-subsequence) |
