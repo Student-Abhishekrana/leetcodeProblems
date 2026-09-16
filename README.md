@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0682-baseball-game) |
 | [0695-max-area-of-island](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0733-flood-fill) |
+| [0766-toeplitz-matrix](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0766-toeplitz-matrix) |
 | [0821-shortest-distance-to-a-character](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0821-shortest-distance-to-a-character) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0877-stone-game](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0877-stone-game) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0733-flood-fill) |
+| [0766-toeplitz-matrix](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0766-toeplitz-matrix) |
 | [0994-rotting-oranges](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0994-rotting-oranges) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/2428-maximum-sum-of-an-hourglass) |
 ## Simulation
