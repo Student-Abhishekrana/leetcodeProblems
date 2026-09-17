@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0268-missing-number) |
+| [0387-first-unique-character-in-a-string](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0389-find-the-difference) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0645-set-mismatch](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0645-set-mismatch) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0387-first-unique-character-in-a-string) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Math
@@ -311,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0072-edit-distance) |
 | [0127-word-ladder](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0131-palindrome-partitioning) |
+| [0387-first-unique-character-in-a-string](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0389-find-the-difference) |
 | [0541-reverse-string-ii](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0541-reverse-string-ii) |
 | [0583-delete-operation-for-two-strings](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0583-delete-operation-for-two-strings) |
@@ -456,4 +459,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0322-coin-change) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
