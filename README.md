@@ -210,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0682-baseball-game) |
 | [1094-car-pooling](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/1094-car-pooling) |
+| [3498-reverse-degree-of-a-string](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/3498-reverse-degree-of-a-string) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -336,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1864-minimum-number-of-swaps-to-make-the-binary-string-alternating](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/1864-minimum-number-of-swaps-to-make-the-binary-string-alternating) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3498-reverse-degree-of-a-string](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/3498-reverse-degree-of-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Counting Sort
