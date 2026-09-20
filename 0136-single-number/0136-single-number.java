@@ -1,9 +1,9 @@
 class Solution {
     public int singleNumber(int[] nums) {
-        int missingSingleNumber =0;
-        for(int i=0; i<nums.length; i++){
-            missingSingleNumber ^=nums[i];
+        int single_number =0;
+        for(int num :nums){
+            single_number ^=num;
         }
-        return missingSingleNumber;
+        return single_number;
     }
 }
