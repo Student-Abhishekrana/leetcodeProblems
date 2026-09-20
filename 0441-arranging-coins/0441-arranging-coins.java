@@ -1,14 +1,8 @@
 class Solution {
     public int arrangeCoins(int n) {
-        int count=0;
-        for(int i=1; i<=n; i++){
-            if(n<i){
-                break;
-            }
-            n -=i;
-            count++;
-        }
-
-return count;
+       
+        
+        return (int)Math.floor(Math.sqrt((2.0*n)+0.25)-0.5);
+        
     }
 }
