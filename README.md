@@ -218,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0210-course-schedule-ii) |
+| [0226-invert-binary-tree](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0226-invert-binary-tree) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0463-island-perimeter](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0695-max-area-of-island) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0210-course-schedule-ii) |
+| [0226-invert-binary-tree](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0322-coin-change) |
 | [0463-island-perimeter](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0695-max-area-of-island) |
@@ -442,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0095-unique-binary-search-trees-ii](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0096-unique-binary-search-trees) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0226-invert-binary-tree](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0226-invert-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 ## Binary Search Tree
 |  |
@@ -454,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0095-unique-binary-search-trees-ii](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0096-unique-binary-search-trees) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0226-invert-binary-tree](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0226-invert-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 ## Stack
 |  |
