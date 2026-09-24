@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0877-stone-game) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1406-stone-game-iii](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/1406-stone-game-iii) |
 | [1486-xor-operation-in-an-array](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/1486-xor-operation-in-an-array) |
 | [1510-stone-game-iv](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/1510-stone-game-iv) |
@@ -338,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0657-robot-return-to-origin) |
 | [0709-to-lower-case](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0709-to-lower-case) |
 | [0821-shortest-distance-to-a-character](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0821-shortest-distance-to-a-character) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1143-longest-common-subsequence](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/1143-longest-common-subsequence) |
 | [1864-minimum-number-of-swaps-to-make-the-binary-string-alternating](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/1864-minimum-number-of-swaps-to-make-the-binary-string-alternating) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -485,4 +487,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0387-first-unique-character-in-a-string) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/1071-greatest-common-divisor-of-strings) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/1071-greatest-common-divisor-of-strings) |
 <!---LeetCode Topics End-->
