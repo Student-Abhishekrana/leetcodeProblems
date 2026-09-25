@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/1547-minimum-cost-to-cut-a-stick) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/2104-sum-of-subarray-ranges) |
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/1406-stone-game-iii) |
 | [1486-xor-operation-in-an-array](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/1486-xor-operation-in-an-array) |
 | [1510-stone-game-iv](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/1510-stone-game-iv) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/1822-sign-of-the-product-of-an-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/3513-number-of-unique-xor-triplets-i) |
