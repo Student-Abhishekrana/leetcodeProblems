@@ -1,6 +1,6 @@
 class Solution {
     public int arraySign(int[] nums) {
-       Arrays.sort(nums);
+     
        int count_sign =0;
 
        for(int num :nums){
