@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0027-remove-element) |
 | [0086-partition-list](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0125-valid-palindrome) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0283-move-zeroes) |
@@ -332,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0072-edit-distance) |
+| [0125-valid-palindrome](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0131-palindrome-partitioning) |
 | [0387-first-unique-character-in-a-string](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0387-first-unique-character-in-a-string) |
