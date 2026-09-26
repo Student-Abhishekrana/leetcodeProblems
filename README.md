@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0441-arranging-coins) |
 | [0486-predict-the-winner](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0628-maximum-product-of-three-numbers) |
+| [0633-sum-of-square-numbers](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0633-sum-of-square-numbers) |
 | [0877-stone-game](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0877-stone-game) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1406-stone-game-iii](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/1406-stone-game-iii) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0441-arranging-coins) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0540-single-element-in-a-sorted-array) |
+| [0633-sum-of-square-numbers](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0633-sum-of-square-numbers) |
 | [0658-find-k-closest-elements](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0658-find-k-closest-elements) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Bit Manipulation
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0283-move-zeroes) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0541-reverse-string-ii](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0541-reverse-string-ii) |
+| [0633-sum-of-square-numbers](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0633-sum-of-square-numbers) |
 | [0658-find-k-closest-elements](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0658-find-k-closest-elements) |
 | [0821-shortest-distance-to-a-character](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0821-shortest-distance-to-a-character) |
 ## Dynamic Programming
