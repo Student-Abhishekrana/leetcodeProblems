@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/2104-sum-of-subarray-ranges) |
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
+| [2352-equal-row-and-column-pairs](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/2352-equal-row-and-column-pairs) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/2428-maximum-sum-of-an-hourglass) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0645-set-mismatch) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0997-find-the-town-judge](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0997-find-the-town-judge) |
+| [2352-equal-row-and-column-pairs](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/2352-equal-row-and-column-pairs) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Divide and Conquer
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0733-flood-fill) |
 | [0766-toeplitz-matrix](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0766-toeplitz-matrix) |
 | [0994-rotting-oranges](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0994-rotting-oranges) |
+| [2352-equal-row-and-column-pairs](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/2352-equal-row-and-column-pairs) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/2428-maximum-sum-of-an-hourglass) |
 ## Simulation
 |  |
@@ -222,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0682-baseball-game) |
 | [1094-car-pooling](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/1094-car-pooling) |
+| [2352-equal-row-and-column-pairs](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/2352-equal-row-and-column-pairs) |
 | [3498-reverse-degree-of-a-string](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/3498-reverse-degree-of-a-string) |
 ## Depth-First Search
 |  |
