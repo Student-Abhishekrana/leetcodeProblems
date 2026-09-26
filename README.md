@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0027-remove-element) |
 | [0049-group-anagrams](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0054-spiral-matrix) |
+| [0078-subsets](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0268-missing-number) |
@@ -309,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0078-subsets) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0095-unique-binary-search-trees-ii) |
 | [0131-palindrome-partitioning](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0131-palindrome-partitioning) |
 | [0494-target-sum](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0494-target-sum) |
