@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0645-set-mismatch) |
 | [0658-find-k-closest-elements](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0658-find-k-closest-elements) |
 | [1094-car-pooling](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/1094-car-pooling) |
+| [1433-check-if-a-string-can-break-another-string](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/1433-check-if-a-string-can-break-another-string) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/1657-determine-if-two-strings-are-close) |
@@ -359,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0821-shortest-distance-to-a-character](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0821-shortest-distance-to-a-character) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1143-longest-common-subsequence](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/1143-longest-common-subsequence) |
+| [1433-check-if-a-string-can-break-another-string](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/1433-check-if-a-string-can-break-another-string) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/1657-determine-if-two-strings-are-close) |
 | [1864-minimum-number-of-swaps-to-make-the-binary-string-alternating](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/1864-minimum-number-of-swaps-to-make-the-binary-string-alternating) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -383,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0044-wildcard-matching](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0044-wildcard-matching) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [1433-check-if-a-string-can-break-another-string](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/1433-check-if-a-string-can-break-another-string) |
 | [1864-minimum-number-of-swaps-to-make-the-binary-string-alternating](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/1864-minimum-number-of-swaps-to-make-the-binary-string-alternating) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
