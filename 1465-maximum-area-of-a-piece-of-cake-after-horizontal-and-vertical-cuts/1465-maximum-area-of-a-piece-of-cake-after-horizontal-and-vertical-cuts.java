@@ -32,12 +32,13 @@ class Solution {
         if (vertical_gap < (w - largest_vertical)) {
             vertical_gap = w - largest_vertical;
         }
+
         int largest_horizontal = horizontalCuts[n - 1];
         if (horizontal_gap < (h - largest_horizontal)) {
             horizontal_gap = h - largest_horizontal;
         }
 
-        int mod = (int) Math.pow(10, 9) + 7;
+        int mod = (int)1000000007;
         return (int) (((long) vertical_gap * horizontal_gap) % mod);
     }
 }
