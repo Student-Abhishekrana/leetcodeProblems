@@ -10,8 +10,10 @@ class Solution {
 
         for (int i = 1; i < m; i++) {
 
-            int gap = Math.abs(verticalCuts[i] - verticalCuts[i - 1]);
-            vertical_gap = Math.max(gap, vertical_gap);
+            int gap = verticalCuts[i] - verticalCuts[i - 1];
+            if (vertical_gap < gap) {
+                vertical_gap = gap;
+            }
 
         }
 
@@ -19,8 +21,10 @@ class Solution {
 
         for (int i = 1; i < n; i++) {
 
-            int gap = Math.abs(horizontalCuts[i] - horizontalCuts[i - 1]);
-            horizontal_gap = Math.max(gap, horizontal_gap);
+            int gap = horizontalCuts[i] - horizontalCuts[i - 1];
+            if (horizontal_gap < gap) {
+                horizontal_gap = gap;
+            }
 
         }
 
