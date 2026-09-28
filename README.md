@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1094-car-pooling](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/1094-car-pooling) |
 | [1406-stone-game-iii](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1465-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/1465-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1094-car-pooling](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/1094-car-pooling) |
 | [1433-check-if-a-string-can-break-another-string](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/1433-check-if-a-string-can-break-another-string) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1465-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/1465-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/1657-determine-if-two-strings-are-close) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -397,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0324-wiggle-sort-ii](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0324-wiggle-sort-ii) |
 | [1433-check-if-a-string-can-break-another-string](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/1433-check-if-a-string-can-break-another-string) |
+| [1465-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/1465-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts) |
 | [1864-minimum-number-of-swaps-to-make-the-binary-string-alternating](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/1864-minimum-number-of-swaps-to-make-the-binary-string-alternating) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
