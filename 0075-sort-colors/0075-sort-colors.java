@@ -1,17 +1,24 @@
 class Solution {
+    private static void swap(int[] nums, int num1, int num2){
+        int temp =nums[num1];
+        nums[num1] =nums[num2];
+        nums[num2] =temp;
+    }
     public void sortColors(int[] nums) {
-       //bubble sort
+        // 3 pointer approach
+        int high =nums.length-1;
+        int low= 0;
+        int mid =0;
 
-       for(int i=0; i<nums.length; i++){
-        for(int j=0; j<nums.length-i-1; j++){
-            if(nums[j] > nums[j+1]){
-                //swap
-                int temp =nums[j];
-                nums[j] =nums[j+1];
-                nums[j+1] =temp;
-            }
+        while(mid<=high){
+           switch (nums[mid]) {
+            case 0: swap(nums, low++, mid++);
+            break;
+            case 1: mid++;
+            break;
+            case 2: swap(nums, mid, high--);
+           }
         }
-       }
-
+        
     }
 }
