@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
 | [2352-equal-row-and-column-pairs](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/2352-equal-row-and-column-pairs) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/2428-maximum-sum-of-an-hourglass) |
+| [2679-sum-in-a-matrix](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/2679-sum-in-a-matrix) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/3875-construct-uniform-parity-array-i) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/1657-determine-if-two-strings-are-close) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [2679-sum-in-a-matrix](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/2679-sum-in-a-matrix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/3536-maximum-product-of-two-digits) |
@@ -239,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0994-rotting-oranges) |
 | [2352-equal-row-and-column-pairs](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/2352-equal-row-and-column-pairs) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/2428-maximum-sum-of-an-hourglass) |
+| [2679-sum-in-a-matrix](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/2679-sum-in-a-matrix) |
 ## Simulation
 |  |
 | ------- |
@@ -247,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0682-baseball-game) |
 | [1094-car-pooling](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/1094-car-pooling) |
 | [2352-equal-row-and-column-pairs](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/2352-equal-row-and-column-pairs) |
+| [2679-sum-in-a-matrix](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/2679-sum-in-a-matrix) |
 | [3498-reverse-degree-of-a-string](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/3498-reverse-degree-of-a-string) |
 ## Depth-First Search
 |  |
@@ -354,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-last-stone-weight](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/1046-last-stone-weight) |
 | [1094-car-pooling](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/1094-car-pooling) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2679-sum-in-a-matrix](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/2679-sum-in-a-matrix) |
 ## Merge Sort
 |  |
 | ------- |
