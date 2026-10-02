@@ -1,12 +1,8 @@
 class Solution {
     public int minimizedMaximum(int n, int[] quantities) {
         int left = 1;
-        int right = 0;
-        for (int quantity : quantities) {
-            if (quantity > right) {
-                right = quantity;
-            }
-        }
+        int right = 100000;
+       
 
         while (left < right) {
             int mid = left + (right - left) / 2;
