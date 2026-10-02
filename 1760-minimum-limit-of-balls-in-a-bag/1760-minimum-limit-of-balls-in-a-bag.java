@@ -1,7 +1,13 @@
 class Solution {
     public int minimumSize(int[] nums, int maxOperations) {
         int low =1;
-        int high =Arrays.stream(nums).max().getAsInt();
+        int high =0;
+        for(int num :nums){
+            if(num >high){
+                high=num;
+            }
+        }
+
         while(low < high){
             int mid =low +(high-low)/2;
             int operation =0;
