@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2104-sum-of-subarray-ranges](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/2104-sum-of-subarray-ranges) |
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/2226-maximum-candies-allocated-to-k-children) |
+| [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2352-equal-row-and-column-pairs](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/2352-equal-row-and-column-pairs) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/2428-maximum-sum-of-an-hourglass) |
 | [2679-sum-in-a-matrix](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/2679-sum-in-a-matrix) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/1657-determine-if-two-strings-are-close) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2679-sum-in-a-matrix](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/2679-sum-in-a-matrix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -425,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Game Theory
