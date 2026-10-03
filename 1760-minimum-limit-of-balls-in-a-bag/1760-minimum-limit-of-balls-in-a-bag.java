@@ -1,26 +1,31 @@
 class Solution {
     public int minimumSize(int[] nums, int maxOperations) {
-        int low =1;
-        int high =0;
-        for(int num :nums){
-            if(num >high){
-                high=num;
+        int left = 1;
+        int right = 0;
+        for (int num : nums) {
+            if (num > right) {
+                right = num;
             }
         }
 
-        while(low < high){
-            int mid =low +(high-low)/2;
-            int operation =0;
-            for(int num :nums){
-                operation +=(num-1)/mid;
+       
+
+        while (left < right) {
+            int mid = left + (right - left) / 2;
+            //is this mid valid
+            int opr = 0;
+            for (int num : nums) {
+                opr += (num - 1) / mid;
             }
-            if(operation <= maxOperations){
-                high =mid;
+            if(opr <= maxOperations){
+                right =mid;
             }else{
-                low =mid+1;
+                left =mid+1;
             }
+            
         }
-        return low;
+        return left;
+
 
     }
 }
