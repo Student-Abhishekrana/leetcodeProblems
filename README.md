@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1035-uncrossed-lines](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/1035-uncrossed-lines) |
 | [1046-last-stone-weight](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/1046-last-stone-weight) |
 | [1094-car-pooling](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/1094-car-pooling) |
+| [1402-reducing-dishes](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/1402-reducing-dishes) |
 | [1406-stone-game-iii](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1465-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/1465-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0645-set-mismatch) |
 | [0658-find-k-closest-elements](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0658-find-k-closest-elements) |
 | [1094-car-pooling](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/1094-car-pooling) |
+| [1402-reducing-dishes](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/1402-reducing-dishes) |
 | [1433-check-if-a-string-can-break-another-string](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/1433-check-if-a-string-can-break-another-string) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1465-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/1465-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts) |
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0877-stone-game) |
 | [1035-uncrossed-lines](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/1035-uncrossed-lines) |
 | [1143-longest-common-subsequence](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/1143-longest-common-subsequence) |
+| [1402-reducing-dishes](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/1402-reducing-dishes) |
 | [1406-stone-game-iii](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/1510-stone-game-iv) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/1547-minimum-cost-to-cut-a-stick) |
@@ -420,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0044-wildcard-matching) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0324-wiggle-sort-ii](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0324-wiggle-sort-ii) |
+| [1402-reducing-dishes](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/1402-reducing-dishes) |
 | [1433-check-if-a-string-can-break-another-string](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/1433-check-if-a-string-can-break-another-string) |
 | [1465-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/1465-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts) |
 | [1864-minimum-number-of-swaps-to-make-the-binary-string-alternating](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/1864-minimum-number-of-swaps-to-make-the-binary-string-alternating) |
