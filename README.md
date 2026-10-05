@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0821-shortest-distance-to-a-character](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0821-shortest-distance-to-a-character) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0877-stone-game](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0877-stone-game) |
+| [0980-unique-paths-iii](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0980-unique-paths-iii) |
 | [0994-rotting-oranges](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0994-rotting-oranges) |
 | [0997-find-the-town-judge](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0997-find-the-town-judge) |
 | [1035-uncrossed-lines](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/1035-uncrossed-lines) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0645-set-mismatch) |
+| [0980-unique-paths-iii](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0980-unique-paths-iii) |
 | [1486-xor-operation-in-an-array](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/1486-xor-operation-in-an-array) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -257,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0733-flood-fill) |
 | [0766-toeplitz-matrix](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0766-toeplitz-matrix) |
+| [0980-unique-paths-iii](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0980-unique-paths-iii) |
 | [0994-rotting-oranges](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0994-rotting-oranges) |
 | [2352-equal-row-and-column-pairs](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/2352-equal-row-and-column-pairs) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/2428-maximum-sum-of-an-hourglass) |
@@ -367,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0131-palindrome-partitioning) |
 | [0494-target-sum](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0494-target-sum) |
 | [0797-all-paths-from-source-to-target](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0797-all-paths-from-source-to-target) |
+| [0980-unique-paths-iii](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0980-unique-paths-iii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -581,4 +585,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0075-sort-colors) |
+## Hamiltonian Path
+|  |
+| ------- |
+| [0980-unique-paths-iii](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0980-unique-paths-iii) |
 <!---LeetCode Topics End-->
