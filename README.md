@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0009-palindrome-number) |
+| [0062-unique-paths](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0096-unique-binary-search-trees) |
 | [0231-power-of-two](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0231-power-of-two) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0044-wildcard-matching) |
+| [0062-unique-paths](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0072-edit-distance) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0095-unique-binary-search-trees-ii) |
@@ -416,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0062-unique-paths) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Greedy
 |  |
