@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0027-remove-element) |
 | [0036-valid-sudoku](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0036-valid-sudoku) |
+| [0041-first-missing-positive](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0063-unique-paths-ii) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0036-valid-sudoku) |
+| [0041-first-missing-positive](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0049-group-anagrams) |
 | [0127-word-ladder](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0128-longest-consecutive-sequence) |
