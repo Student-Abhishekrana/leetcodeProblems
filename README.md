@@ -235,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0131-palindrome-partitioning](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0131-palindrome-partitioning) |
+| [0132-palindrome-partitioning-ii](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0132-palindrome-partitioning-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0416-partition-equal-subset-sum) |
@@ -397,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0131-palindrome-partitioning) |
+| [0132-palindrome-partitioning-ii](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0132-palindrome-partitioning-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0389-find-the-difference) |
 | [0541-reverse-string-ii](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0541-reverse-string-ii) |
