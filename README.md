@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/1406-stone-game-iii) |
 | [1486-xor-operation-in-an-array](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/1486-xor-operation-in-an-array) |
 | [1510-stone-game-iv](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/1510-stone-game-iv) |
+| [1513-number-of-substrings-with-only-1s](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/1513-number-of-substrings-with-only-1s) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/1822-sign-of-the-product-of-an-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -410,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1071-greatest-common-divisor-of-strings](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1143-longest-common-subsequence](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/1143-longest-common-subsequence) |
 | [1433-check-if-a-string-can-break-another-string](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/1433-check-if-a-string-can-break-another-string) |
+| [1513-number-of-substrings-with-only-1s](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/1513-number-of-substrings-with-only-1s) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/1657-determine-if-two-strings-are-close) |
 | [1864-minimum-number-of-swaps-to-make-the-binary-string-alternating](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/1864-minimum-number-of-swaps-to-make-the-binary-string-alternating) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
