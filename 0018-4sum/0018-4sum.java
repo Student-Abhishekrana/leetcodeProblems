@@ -1,44 +1,38 @@
 class Solution {
     public List<List<Integer>> fourSum(int[] nums, int target) {
-        int n = nums.length;
         Arrays.sort(nums);
-        Set<List<Integer>> set = new HashSet<>();
+        List<List<Integer>> list = new ArrayList<>();
+        int n = nums.length;
+        for (int i = 0; i < n - 3; i++) {
+            if (i > 0 && nums[i] == nums[i - 1])
+                continue;
+            for (int j = i + 1; j < n - 2; j++) {
+                if (j > i + 1 && nums[j] == nums[j - 1])
+                    continue;
+                int left = j + 1;
+                int right = n - 1;
 
-        for (int i = 0; i < n; i++) {
-            for (int j = i + 1; j < n; j++) {
-                for (int k = j + 1; k < n; k++) {
-                    long newTarget = target;
-                    newTarget -= nums[i];
-                    newTarget -= nums[j];
-                    newTarget -= nums[k];
-
-                    int low = k + 1;
-                    int high = n-1;
-                    while (low <= high) {
-                        int mid = low + (high - low) / 2;
-
-                        if (nums[mid] == newTarget) {
-                            List<Integer> list = new ArrayList<>();
-                            list.add(nums[i]);
-                            list.add(nums[j]);
-                            list.add(nums[k]);
-                            list.add(nums[mid]);
-                            set.add(list);
-                            break;
-                        } else if (nums[mid] > newTarget) {
-                            high = mid - 1;
-                        } else {
-                            low = mid + 1;
+                while (left < right) {
+                    long sum = (long) nums[i] + nums[j] + nums[left] + nums[right];
+                    if (sum == target) {
+                        list.add(new ArrayList<>(Arrays.asList(nums[i], nums[j], nums[left], nums[right])));
+                        while (left < right && nums[left] == nums[left+1]) {
+                            left++;
                         }
-
+                        while (left < right && nums[right] == nums[right - 1]) {
+                            right--;
+                        }
+                        left++;
+                        right--;
+                    } else if (sum > target) {
+                        right--;
+                    } else {
+                        left++;
                     }
-
                 }
             }
         }
+        return list;
 
-        List<List<Integer>> ans = new ArrayList<>(set);
-
-        return ans;
     }
 }
