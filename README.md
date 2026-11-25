@@ -225,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0283-move-zeroes) |
+| [0392-is-subsequence](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0392-is-subsequence) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0541-reverse-string-ii](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0541-reverse-string-ii) |
 | [0633-sum-of-square-numbers](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0633-sum-of-square-numbers) |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0132-palindrome-partitioning-ii](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0132-palindrome-partitioning-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0322-coin-change) |
+| [0392-is-subsequence](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0416-partition-equal-subset-sum) |
 | [0486-predict-the-winner](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0494-target-sum) |
@@ -422,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0132-palindrome-partitioning-ii](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0132-palindrome-partitioning-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0389-find-the-difference) |
+| [0392-is-subsequence](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0392-is-subsequence) |
 | [0541-reverse-string-ii](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0541-reverse-string-ii) |
 | [0583-delete-operation-for-two-strings](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0583-delete-operation-for-two-strings) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0599-minimum-index-sum-of-two-lists) |
