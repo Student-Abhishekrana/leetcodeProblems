@@ -1,22 +1,16 @@
 class Solution {
     public boolean isPalindrome(String s) {
-        int start =0;
-        int end =s.length()-1;
+     String newStr =s.replaceAll("[^A-Za-z0-9]","").toLowerCase(); 
 
-        while(start<=end){
-            if(!Character.isLetterOrDigit(s.charAt(start))){
-                start++;
-            }else if(!Character.isLetterOrDigit(s.charAt(end))){
-                end--;
-            }else{
-                if(Character.toLowerCase(s.charAt(start)) !=Character.toLowerCase(s.charAt(end))){
-                    return false;
-                }else{
-                    start++;
-                    end--;
-                }
-            }
+     int left =0, right =newStr.length()-1;
+
+     while(left<=right){
+        if(newStr.charAt(left)!= newStr.charAt(right)){
+            return false;
         }
-        return true;
+        left++;
+        right--;
+     }  
+     return true;
     }
 }
