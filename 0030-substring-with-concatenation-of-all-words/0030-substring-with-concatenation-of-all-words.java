@@ -4,6 +4,10 @@ class Solution {
         int wordLength = words[0].length();
         List<Integer> ans = new ArrayList<>();
 
+        if(s.isEmpty() && words.length==0){
+          return  ans;
+        }
+
         HashMap<String, Integer> wordsFreq = new HashMap<>();
 
         for (String word : words) {
