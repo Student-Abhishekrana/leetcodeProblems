@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0009-palindrome-number) |
 | [0062-unique-paths](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0070-climbing-stairs) |
@@ -365,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0023-merge-k-sorted-lists) |
 | [0086-partition-list](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0086-partition-list) |
@@ -379,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0021-merge-two-sorted-lists) |
 | [0044-wildcard-matching](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0044-wildcard-matching) |
 | [0206-reverse-linked-list](https://github.com/Student-Abhishekrana/leetcodeProblems/tree/master/0206-reverse-linked-list) |
